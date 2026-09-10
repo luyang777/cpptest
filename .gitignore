@@ -1,4 +1,13 @@
+.gitignore
 frontend/node_modules/
 frontend/dist/
 .vscode/
 .DS_Store
+node_modules/
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.lib
+*.dll
+logs/*.log
